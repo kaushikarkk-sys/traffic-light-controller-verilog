@@ -68,7 +68,7 @@ The waveform confirms the correct FSM sequence:
 
 S0 → S1 → S2 → S3 → S0
 
-![Traffic Light Controller Simulation](simulation/TRAFFIC LIGHT WAVEFORM.png)
+![Traffic Light Controller Simulation](simulation/waveform.png)
 
 ## Verification
 
